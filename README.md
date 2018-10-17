@@ -1,3 +1,3 @@
 # hello-word
 this is a repo to practice GitHub
-this repo will be converted into something new as soon as practicing GitHub ends
+I don't know what I will do with this repo after practicing ends
